@@ -1,0 +1,46 @@
+{
+    "1": {
+        "question" : "How many days do we have in a week?",
+        "answer" : "Seven",
+        "points": "10",
+        "is_asked" : false,
+        "level": "1",
+        "topic": "Russia",
+        "author" : "Vadim"},
+
+    "2": {
+        "question" : "How many days are there in a normal year?",
+        "answer" : "365",
+        "points": "10",
+        "is_asked" : false,
+        "level": "3",
+        "topic": "USA",
+        "author" : "Vadim"},
+
+    "3": {
+        "question" : "How many colors are there in a rainbow?",
+        "answer" : "7",
+        "points": "10",
+        "is_asked" : false,
+        "level": "2",
+        "topic": "Africa",
+        "author" : "Vadim"},
+
+     "4": {
+        "question" : "How many letters are there in the English alphabet?",
+        "answer" : "27",
+        "points": "10",
+        "is_asked" : false,
+        "level": "2",
+        "topic": "China",
+        "author" : "Vadim"},
+
+    "5": {
+        "question" : "How many letters are there in the English alphabet?",
+        "answer" : "26",
+        "points": "10",
+        "is_asked" : false,
+        "level": "3",
+        "topic": "Russia",
+        "author" : "Vadim"}
+}
